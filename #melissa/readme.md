@@ -1,3 +1,5 @@
+<div style="text-align: center;">Συνοπτική Ενημέρωση Νέων Εκδόσεων</div>
+                                        
 <table>
                                            <tr>
                                                 <th>Date</th>
